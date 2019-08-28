@@ -1,0 +1,5 @@
+Displays the custom location layer
+Displays the geometries within the layer within a given radius
+Displays the geometries within the layer within a given box
+
+Results at https://kuberaspeaking.github.io/HEREcustomLayer/
